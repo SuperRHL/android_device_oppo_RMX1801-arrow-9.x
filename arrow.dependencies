@@ -1,0 +1,10 @@
+[
+  {
+    "repository":  "android_kernel_oppo_RMX1801",
+    "target_path": "kernel/oppo/sdm660"
+  },
+  {
+    "repository":  "android_vendor_oppo_RMX1801",
+    "target_path": "vendor/oppo/RMX1801"
+  }
+]
